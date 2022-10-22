@@ -1,0 +1,8 @@
+main: jar.essem.main.Main
+name: BobTheBuilder
+version: 1.0
+
+author: EssemDotJar
+description: Bob the Builder in Minecraft.
+
+api-version: 1.19
